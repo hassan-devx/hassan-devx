@@ -1,22 +1,78 @@
 # 👋 Hi, I'm Hassan
 
-I'm a Python developer with a passion for building data-driven solutions and mastering technical workflows. I recently completed the **Microsoft Python Development** course on Coursera, and I'm actively applying what I've learned through hands-on projects.
+**AI Trainer | Aspiring Data & Automation Engineer | Python Developer**
 
-## 🚀 What I'm Working On
-- 🧮 [Churn Prediction Dashboard](https://github.com/hassan-devx/churn-prediction-dashboard): My first end-to-end data project using pandas, scikit-learn, and matplotlib
-- 🔐 SSH & GitHub Authentication Workflows: Exploring secure repo access and credential management
-- 📊 GitHub Repo Analyzer (coming soon): A CLI tool to analyze repo stats using the GitHub API
+I build real-world projects across automation, analytics, and full‑stack development.  
+My work focuses on solving practical problems using Python, APIs, machine learning, and intelligent systems.  
+Always learning, always building.
 
-## 🛠️ Skills
-- Python (data analysis, scripting, CLI tools)
-- Git & GitHub (SSH setup, credential helpers, troubleshooting)
-- Jupyter Notebooks, pandas, scikit-learn, matplotlib
-- Methodical problem-solving and iterative development
+---
 
-## 🌱 Learning Goals
-- Build deployable dashboards and analytics workflows
-- Contribute to open-source projects
-- Understand full-stack deployment and CI/CD pipelines
+## 🚀 Tech Stack
 
-## 📫 Let's Connect
-Feel free to explore my repos or reach out with collaboration ideas!
+**Languages:** Python, JavaScript, SQL  
+**Frameworks:** Flask, Streamlit  
+**Tools:** Git, GitHub, Jupyter Notebook  
+**Skills:** Automation, Web Scraping, APIs, Data Analysis, Machine Learning, NLP
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **Churn Prediction Dashboard (Full‑Stack + ML)**
+A complete end‑to‑end web application for predicting customer churn using machine learning.  
+**Tech:** Flask, Python, ML, HTML/CSS  
+🔗 Repo: *Pinned above*
+
+---
+
+### 🔹 **Sentishelf App (AI/NLP)**
+An intelligent sentiment‑analysis tool demonstrating NLP and applied AI concepts.  
+**Tech:** Python, NLP, Machine Learning  
+🔗 Repo: *Pinned above*
+
+---
+
+### 🔹 **Netflix Data Analysis**
+Exploratory data analysis on Netflix titles using Python and Jupyter Notebook.  
+**Tech:** Pandas, Matplotlib, Data Cleaning  
+🔗 Repo: *Pinned above*
+
+---
+
+### 🔹 **Weather App (API‑Based)**
+A clean, functional weather application powered by a live API.  
+**Tech:** JavaScript, APIs  
+🔗 Repo: *Pinned above*
+
+---
+
+### 🔹 **Job Web Scraper**
+Automates job extraction from websites using Python.  
+**Tech:** BeautifulSoup, Requests, Automation  
+🔗 Repo: *Pinned above*
+
+---
+
+### 🔹 **Automation & Scripting**
+A collection of automation scripts demonstrating practical engineering skills.  
+**Tech:** Python, OS automation  
+🔗 Repo: *Pinned above*
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening automation and data engineering skills  
+- Building intelligent tools and dashboards  
+- Expanding AI/NLP projects  
+- Improving full‑stack development capability  
+
+---
+
+## 📫 Contact
+
+**Email:** *(add your email here)*  
+**LinkedIn:** *(add your LinkedIn link here)*  
+
+Let’s build something meaningful.
