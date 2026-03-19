@@ -33,9 +33,9 @@ An intelligent sentiment‑analysis tool demonstrating NLP and applied AI concep
 
 ---
 
-### 🔹 **Netflix Data Analysis**
-Exploratory data analysis on Netflix titles using Python and Jupyter Notebook.  
-**Tech:** Pandas, Matplotlib, Data Cleaning  
+### 🔹 **UK Crime Blog**
+A data‑driven blog exploring UK crime trends, insights, and patterns using Python and public datasets.  
+**Tech:** Python, Data Analysis, Visualization  
 🔗 Repo: *Pinned above*
 
 ---
