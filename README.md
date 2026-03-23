@@ -72,7 +72,7 @@ A collection of automation scripts demonstrating practical engineering skills.
 
 ## 📫 Contact
 
-**Email:** *(add your email here)*  
-**LinkedIn:** *(add your LinkedIn link here)*  
+Email: hakinleye1@gmail.com  
+LinkedIn: www.linkedin.com/in/hassan-devx  
 
 Let’s build something meaningful.
