@@ -72,7 +72,7 @@ A collection of automation scripts demonstrating practical engineering skills.
 
 ## 📫 Contact
 
-Email: hakinleye1@gmail.com  
+Email: hassan.akinleye@theimagebuildercom  
 LinkedIn: www.linkedin.com/in/hassan-devx  
 
 Let’s build something meaningful.
